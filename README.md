@@ -23,7 +23,7 @@
   - yarn test
   
   # Start the server
-  - yarn start
+  - yarn dev:server
 ```
 
 ## :fork_and_knife: Contributing
